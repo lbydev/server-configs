@@ -1,5 +1,7 @@
 # PHP-FPM一些配置建议
 
+**以下主要根据Josh Lockhart 《Modern PHP》整理**
+
 ###配置
 PHP-FPM，管理PHP进程池的软件。
 
