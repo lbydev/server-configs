@@ -1,2 +1,2 @@
 # server-configs
-Nginx HTTP server local dev vagrant configs
+Nginx HTTP server configs for local vagrant deploy
